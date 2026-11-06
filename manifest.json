@@ -1,0 +1,11 @@
+{
+  "created": "2026-11-06T05:54:16.221747+00:00",
+  "root": "testdata",
+  "files": {
+    "report.txt": {
+      "sha256": "bb29a57e59f3cfb172d11138efe9a75fdcec1be1109cd83f9999bed2de285981",
+      "size": 41,
+      "mtime": "2026-11-06T05:53:08.679175+00:00"
+    }
+  }
+}
